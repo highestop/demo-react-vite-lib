@@ -1,6 +1,7 @@
 {
   "name": "demo-react-lib-vite",
   "version": "0.0.0",
+  "packageManager": "yarn@1.22.19",
   "repository": {
     "type": "git",
     "url": "https://github.com/highestop/demo-react-lib-vite.git"
