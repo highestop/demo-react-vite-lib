@@ -1,4 +1,4 @@
-# demo-react-lib-vite
+# demo-vite-react-lib
 
 Clone this repo as a template, if you wanna create a React Library using [vite](https://vitejs.dev/).
 
